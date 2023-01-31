@@ -13,3 +13,7 @@ from our model. The above-mentioned techniques were applied
 on the Marmot Extended for Table Structure Recognition, which
 was made publicly available by S. Paliwal.
 
+The proposed model pipeline was:
+![Screenshot 2023-02-01 002028](https://user-images.githubusercontent.com/107636242/215861235-517ef43c-dbcb-4cb0-b30f-2aab884b6579.jpg)
+
+
